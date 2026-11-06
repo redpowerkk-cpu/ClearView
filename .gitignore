@@ -1,0 +1,13 @@
+/dist/
+/artifacts/
+/tests/output/
+/tests/media/
+/.vs/
+*.user
+*.suo
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+.env
+.env.*
